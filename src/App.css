@@ -24,8 +24,8 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.navbar Link active {
+  color: red;
 }
 
 @keyframes App-logo-spin {
